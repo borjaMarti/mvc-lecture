@@ -1,6 +1,6 @@
 # MVC Overview: Model - View - Controller Architecture
 
-### Video version [here](MVC-Lecture.mov).
+### Watch the video version of this lecture [here](https://youtu.be/SIHGbcEUIAU).
 
 ![Opening slide](slides/MVC_01.jpg)
 
