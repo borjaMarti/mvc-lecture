@@ -1,5 +1,7 @@
 # MVC Overview: Model - View - Controller Architecture
 
+### Video version [here](MVC-Lecture.mov).
+
 ![Opening slide](slides/MVC_01.jpg)
 
 Hello, I’m Borja Martí, and today I want to introduce you to the concept of MVC. For that, I will explain the basics of this concept as it applies specifically to web development.
